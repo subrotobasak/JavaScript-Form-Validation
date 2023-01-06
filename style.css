@@ -1,0 +1,11 @@
+.form-area{
+    margin: 50px 0;
+}
+
+.main-form{
+    padding: 50px;
+    background: #34e89e; 
+    background: -webkit-linear-gradient(to right, #0f3443, #34e89e); 
+    background: linear-gradient(to right, #0f3443, #34e89e);
+    color: rgb(221, 216, 206);
+}
